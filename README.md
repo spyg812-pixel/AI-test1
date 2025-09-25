@@ -9,7 +9,7 @@ import random
 # Some responses the AI knows
 responses = {
     "hello": ["Hi there!", "Hello!", "Hey! How’s it going?"],
-    "how are you": ["I’m doing great, thanks!", "I’m just a script, but I’m fine!", "All good here."],
+    "how are you": ["I’m doing great, thanks!", "I’m just a script, but I’m fine!", "All good here.
     "bye": ["Goodbye!", "See you later!", "Bye! Have a great day!"],
     "who are you": ["I’m your simple AI chatbot.", "I’m just some Python code, but I can chat with you!"],
 }
